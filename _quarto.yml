@@ -1,0 +1,22 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Julie Nguyen"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - projects.qmd
+      - href: Resume - Julie Nguyen.pdf
+        text: CV
+
+format:
+  html:
+    theme: cyborg
+    css: styles.css
+    toc: true
+
+
+

@@ -1,0 +1,14 @@
+{
+  "hash": "8ab846d088108e8c609ad91493ae6327",
+  "result": {
+    "markdown": "---\ntitle: \"Julie's Personal Website\"\n---\n\n\nHi there!\n\nI am Julie Nguyen, an emerging Product Designer/student based in Toronto, Canada.\n\nCurrenly a UXD student at University of Toronto. A multilingual explorer.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

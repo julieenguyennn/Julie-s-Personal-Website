@@ -1,0 +1,13 @@
+---
+title: "Julie's Personal Website"
+---
+
+Hi there!
+
+I am Julie Nguyen, an emerging Product Designer/student based in Toronto, Canada.
+
+Currenly a UXD student at University of Toronto. A multilingual explorer.
+
+```{r}
+1 + 1
+```

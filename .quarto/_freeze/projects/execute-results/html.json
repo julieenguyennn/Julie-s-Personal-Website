@@ -1,0 +1,16 @@
+{
+  "hash": "20c06aac47f5bae3c0235c4ff218a03f",
+  "result": {
+    "markdown": "---\ntitle: \"Projects\"\n---\n\n\nView my work below!\n\n- [Outbreak Management](https://github.com/julieenguyennn/Outbreak-Management-in-Toronto-Health-Institutions), which is a paper exploring the Outbreak Management in Toronto Health Institutions \n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
+    "supporting": [
+      "projects_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
