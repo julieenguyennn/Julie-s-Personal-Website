@@ -1,5 +1,15 @@
 ---
-title: "Julie's Personal Website"
+title: "About me"
+about:
+  template: solana
+  image: profile.jpg
+  links:
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com
+    - icon: github
+      text: Github
+      href: https://github.com
 ---
 
 Hi there!
@@ -7,6 +17,19 @@ Hi there!
 I am Julie Nguyen, an emerging Product Designer/student based in Toronto, Canada.
 
 Currenly a UXD student at University of Toronto. A multilingual explorer.
+
+## Education
+
+University of Toronto | Toronto, ON
+Bachelor of Information | 2022 - Present
+
+University of Social Sciences & Humanities, VNU-HCMC | Ho Chi Minh City
+B.A. English Linguistics & Literature| 2018 - 2022
+
+## Experience
+
+U.S. Consulate General in Ho Chi Minh City | Public Affairs Section Intern | April 2021 - 2022
+
 
 ```{r}
 1 + 1
