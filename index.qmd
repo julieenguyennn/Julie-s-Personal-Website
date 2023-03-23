@@ -2,14 +2,11 @@
 title: "About me"
 about:
   template: solana
-  image: profile.jpg
+  image: avatar.png
   links:
-    - icon: twitter
-      text: twitter
-      href: https://twitter.com
     - icon: github
       text: Github
-      href: https://github.com
+      href: https://github.com/julieenguyennn 
 ---
 
 Hi there!
@@ -29,8 +26,3 @@ B.A. English Linguistics & Literature| 2018 - 2022
 ## Experience
 
 U.S. Consulate General in Ho Chi Minh City | Public Affairs Section Intern | April 2021 - 2022
-
-
-```{r}
-1 + 1
-```

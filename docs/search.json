@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Julie’s Personal Website",
+    "title": "About me",
     "section": "",
-    "text": "Hi there!\nI am Julie Nguyen, an emerging Product Designer/student based in Toronto, Canada.\nCurrenly a UXD student at University of Toronto. A multilingual explorer.\n\n1 + 1\n\n[1] 2"
+    "text": "Hi there!\nI am Julie Nguyen, an emerging Product Designer/student based in Toronto, Canada.\nCurrenly a UXD student at University of Toronto. A multilingual explorer."
   },
   {
     "objectID": "projects.html",
@@ -12,5 +12,19 @@
     "title": "Projects",
     "section": "",
     "text": "View my work below!\n\nOutbreak Management, which is a paper exploring the Outbreak Management in Toronto Health Institutions\nWant to learn more about me? View my Resume"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "About me",
+    "section": "Education",
+    "text": "Education\nUniversity of Toronto | Toronto, ON Bachelor of Information | 2022 - Present\nUniversity of Social Sciences & Humanities, VNU-HCMC | Ho Chi Minh City B.A. English Linguistics & Literature| 2018 - 2022"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "About me",
+    "section": "Experience",
+    "text": "Experience\nU.S. Consulate General in Ho Chi Minh City | Public Affairs Section Intern | April 2021 - 2022"
   }
 ]

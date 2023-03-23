@@ -1,7 +1,7 @@
 {
-  "hash": "8ab846d088108e8c609ad91493ae6327",
+  "hash": "684697c786bedc84afad7fcd87a4259b",
   "result": {
-    "markdown": "---\ntitle: \"Julie's Personal Website\"\n---\n\n\nHi there!\n\nI am Julie Nguyen, an emerging Product Designer/student based in Toronto, Canada.\n\nCurrenly a UXD student at University of Toronto. A multilingual explorer.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
+    "markdown": "---\ntitle: \"About me\"\nabout:\n  template: solana\n  image: profile.jpg\n  links:\n    - icon: twitter\n      text: twitter\n      href: https://twitter.com\n    - icon: github\n      text: Github\n      href: https://github.com\n---\n\n\nHi there!\n\nI am Julie Nguyen, an emerging Product Designer/student based in Toronto, Canada.\n\nCurrenly a UXD student at University of Toronto. A multilingual explorer.\n\n## Education\n\nUniversity of Toronto | Toronto, ON\nBachelor of Information | 2022 - Present\n\nUniversity of Social Sciences & Humanities, VNU-HCMC | Ho Chi Minh City\nB.A. English Linguistics & Literature| 2018 - 2022\n\n## Experience\n\nU.S. Consulate General in Ho Chi Minh City | Public Affairs Section Intern | April 2021 - 2022\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"
