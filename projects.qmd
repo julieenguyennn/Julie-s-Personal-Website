@@ -5,4 +5,4 @@ title: "Projects"
 View my work below!
 
 - [Outbreak Management](https://github.com/julieenguyennn/Outbreak-Management-in-Toronto-Health-Institutions), which is a paper exploring the Outbreak Management in Toronto Health Institutions 
-- Want to learn more about me? View my Resume
+- [Happiness in the America post-COVID-19] (https://github.com/julieenguyennn/An-Analysis-of-Happiness-in-the-America-post-COVID-19.git)
